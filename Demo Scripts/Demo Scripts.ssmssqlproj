@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Demo Scripts">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="BISHOP.XMEN.COM:andy_local">
+          <Created>2021-10-19T19:28:33.8062538-04:00</Created>
+          <Type>SQL</Type>
+          <Server>BISHOP.XMEN.COM</Server>
+          <UserName>andy_local</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="0_Reset.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BISHOP.XMEN.COM:False:andy_local</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BISHOP.XMEN.COM</AssociatedConnSrvName>
+          <AssociatedConnUserName>andy_local</AssociatedConnUserName>
+          <FullPath>0_Reset.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1_Diag Queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BISHOP.XMEN.COM:False:andy_local</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BISHOP.XMEN.COM</AssociatedConnSrvName>
+          <AssociatedConnUserName>andy_local</AssociatedConnUserName>
+          <FullPath>1_Diag Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1a_Diag Queries 2019.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BISHOP.XMEN.COM:False:andy_local</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BISHOP.XMEN.COM</AssociatedConnSrvName>
+          <AssociatedConnUserName>andy_local</AssociatedConnUserName>
+          <FullPath>1a_Diag Queries 2019.sql</FullPath>
+        </FileNode>
+        <FileNode Name="2_Key Order.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BISHOP.XMEN.COM:False:andy_local</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BISHOP.XMEN.COM</AssociatedConnSrvName>
+          <AssociatedConnUserName>andy_local</AssociatedConnUserName>
+          <FullPath>2_Key Order.sql</FullPath>
+        </FileNode>
+        <FileNode Name="3_Individual Queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BISHOP.XMEN.COM:False:andy_local</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BISHOP.XMEN.COM</AssociatedConnSrvName>
+          <AssociatedConnUserName>andy_local</AssociatedConnUserName>
+          <FullPath>3_Individual Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="4_Plan Explorer.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BISHOP.XMEN.COM:False:andy_local</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BISHOP.XMEN.COM</AssociatedConnSrvName>
+          <AssociatedConnUserName>andy_local</AssociatedConnUserName>
+          <FullPath>4_Plan Explorer.sql</FullPath>
+        </FileNode>
+        <FileNode Name="5_Workload Analysis.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BISHOP.XMEN.COM:False:andy_local</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BISHOP.XMEN.COM</AssociatedConnSrvName>
+          <AssociatedConnUserName>andy_local</AssociatedConnUserName>
+          <FullPath>5_Workload Analysis.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
